@@ -1,12 +1,3 @@
-// function iLoveTheBeatles(number){
-//   var array = []
-//   do{array.unshift(`I love the Beatles!`)
-//     number++
-//   }while(number < 15)
-//   return (array)
-//   }
-
-
 function theBeatlesPlay(musicians, instruments){
   var arr = []
   for(var i = 0; i < 4; i++){
